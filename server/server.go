@@ -1,11 +1,9 @@
 package server
 
-package server
-
 import (
-"github.com/konekotech/crudAPI/controller"
-"github.com/konekotech/crudAPI/service
-"github.com/gin-gonic/gin"
+	"github.com/gin-gonic/gin"
+	"github.com/konekotech/crudAPI/controller"
+	"github.com/konekotech/crudAPI/service"
 )
 
 func Init() {

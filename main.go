@@ -1,4 +1,4 @@
-package crudAPI
+package main
 
 import (
 	"github.com/konekotech/crudAPI/db"
